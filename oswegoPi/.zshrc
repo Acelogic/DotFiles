@@ -94,7 +94,7 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
-alias intellij="intellij.sh"
-DISABLE_UPDATE_PROMPT=true 
+alias yay="brew install"
+alias intellij="intellij.sh" 
 export PATH="/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/home/mcruz/bin:/home/mcruz/.local/bin:/home/mcruz/.local/bin:/home/mcruz/bin:/home/mcruz/.vimpkg/bin"
 neofetch
